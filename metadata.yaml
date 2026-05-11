@@ -4,7 +4,7 @@
     "name": "SCUM",
     "version": "1.0.0",
     "description": "SCUM服务器查询与授权管理插件",
-    "author": "",
-    "homepage": ""
+    "author": "joker",
+    "homepage": "https://github.com/z1s2y3/astrbot_plugin_scum"
   }
 }
