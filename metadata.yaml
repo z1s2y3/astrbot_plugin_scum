@@ -1,0 +1,10 @@
+{
+  "package": {
+    "identifier": "com.astrbot.plugin.scum",
+    "name": "SCUM",
+    "version": "1.0.0",
+    "description": "SCUM服务器查询与授权管理插件",
+    "author": "",
+    "homepage": ""
+  }
+}

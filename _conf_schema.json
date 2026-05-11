@@ -1,0 +1,17 @@
+{
+  "auth_key": {
+    "type": "string",
+    "default": "",
+    "description": "授权密钥（生成卡密用）"
+  },
+  "default_days": {
+    "type": "int",
+    "default": 30,
+    "description": "默认授权天数"
+  },
+  "api_base_url": {
+    "type": "string",
+    "default": "https://api.scummasters.com",
+    "description": "SCUM API 地址"
+  }
+}
